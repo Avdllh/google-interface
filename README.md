@@ -1,2 +1,2 @@
 # google-interface
-i replicated google front page
+I replicated google front page using Html, CSS and bootstrap.
